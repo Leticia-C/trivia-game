@@ -2,7 +2,7 @@
 <div align="center">
    <h1> 🎮 Bem vinde ao Trivia!</h1>
    </div>
-    <p> Essa aplicação é um jogo de perguntas e respostas baseado no jogo Trivia, utilizando React e Redux, desenvolvido em grupo.</p>
+    <p> Essa aplicação é um jogo de perguntas e respostas baseado no jogo Trivia, utilizando React e Redux, desenvolvido em grupo no modulo de Front-End da Trybe.</p>
    <p align="center"> <a href="https://trivia-six-rust.vercel.app/"><strong>Jogue aqui!</strong></a></p>
     <div> 
     <h3 align="center" >No Trivia, a pessoa usuária poderá:</h3>
